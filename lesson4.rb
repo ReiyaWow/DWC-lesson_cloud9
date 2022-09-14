@@ -1,0 +1,2 @@
+name = "レイヤ"
+puts name
